@@ -1,6 +1,6 @@
-# s7-updates-motd
+# updates-motd
 
-This small Arch Linux package add the updateable packages to the message of the day `/etc/motd.d`. A Systemd timer will update that every 4 hours.
+This small Arch Linux script collection adds the updateable packages to the message of the day `/etc/motd.d`. A Systemd timer will update that every 4 hours.
 
 ![available_update_pkgs.png](./images/available_update_pkgs.png)
 
